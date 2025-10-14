@@ -1,0 +1,2 @@
+# Real-Time-Multimodal-Emotion-Detection-with-YOLO-ViT-and-Spark-Streaming
+Edge producers run YOLO and ViT to detect emotions from webcam frames, overlay Grad‑CAM/boxes, keep persistent person IDs, and write JSON batches.  A Scala job preprocesses the Kaggle dataset into Parquet on HDFS for training and reference.  Spark Structured Streaming ingests JSON from HDFS into Bronze and produces Gold windowed aggregates.
