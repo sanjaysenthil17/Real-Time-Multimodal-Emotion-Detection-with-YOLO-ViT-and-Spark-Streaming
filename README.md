@@ -79,11 +79,11 @@ Run either producer on your laptop webcam:
 
 YOLO producer
 ```bash
-python edge/laptop_producer_file.py
+python edge/yolo_opencv_emotion_detection.py
 ```
 ViT producer (with Grad‑CAM overlays)
 ```bash
-python edge/laptop_produce_file.py
+python edge/vit_opencv_emotion_detection.py
 ```
 
 What happens:
