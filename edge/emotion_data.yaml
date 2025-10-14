@@ -1,0 +1,17 @@
+# emotion_data.yaml
+train: /dist_home/suryansh/vignesh/s5/bd/dataset/train/images
+val:   /dist_home/suryansh/vignesh/s5/bd/dataset/valid/images
+test:  /dist_home/suryansh/vignesh/s5/bd/dataset/test/images
+
+nc: 9
+names:
+  - happy
+  - sad
+  - angry
+  - neutral
+  - disgust
+  - surprise
+  - fear
+  - contempt
+  - sleepy
+  
