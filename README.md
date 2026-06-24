@@ -9,6 +9,9 @@ A production‑style, big‑data pipeline that:
 - Streams batched JSON events into Spark, producing Bronze, Silver, and Gold layers.
 
 Made with ❤️ by VigneshVS2005
+                 sanjaysenthil
+                 karthick ruban
+                 hariprakash
 
 ## ✨ What’s inside
 - Edge producers (YOLO + ViT): bounding boxes, emotions, confidence, persistent person IDs, optional audio prompts.
