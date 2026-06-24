@@ -8,9 +8,9 @@ A production‑style, big‑data pipeline that:
 - Preprocesses the Kaggle dataset with Scala into Parquet on HDFS for faster training/analytics.
 - Streams batched JSON events into Spark, producing Bronze, Silver, and Gold layers.
 
-Made with ❤️ by VigneshVS2005
-                 sanjaysenthil
-                 karthick ruban
+Made with ❤️ by VigneshVS2005,
+                 sanjaysenthil,
+                 karthick ruban,
                  hariprakash
 
 ## ✨ What’s inside
